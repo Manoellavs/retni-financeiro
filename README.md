@@ -2,6 +2,12 @@
 
 Aplicação web de gestão financeira pessoal desenvolvida para a Fase 04 do Tech Challenge. O foco é organizar entradas, despesas, orçamentos e metas com autenticação, dados privados por usuário e uma interface responsiva.
 
+## Video 
+https://www.youtube.com/watch?v=QJNjdR1LIoA
+
+## Link site web 
+https://retni-financeiro.vercel.app/sign-in
+
 ## Tecnologias
 
 - Next.js 16 com App Router e React
@@ -65,10 +71,4 @@ As consultas e mutações financeiras obtêm o usuário da sessão no servidor e
 - Validação de entrada e isolamento das consultas por sessão.
 - Cabeçalhos HTTP defensivos configurados no Next.js.
 
-## Roteiro sugerido para o vídeo demonstrativo (até 5 minutos)
 
-1. Apresente o cadastro e o login.
-2. Crie uma entrada e uma despesa e mostre o reflexo no saldo e no fluxo de caixa.
-3. Crie um orçamento e registre uma despesa na mesma categoria.
-4. Crie uma meta e atualize o valor guardado.
-5. Mostre a navegação em uma tela estreita e encerre destacando o isolamento dos dados por conta.
